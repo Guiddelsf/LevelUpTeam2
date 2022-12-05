@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "Please enter your name:"read name
+echo "Please enter your name:"
+read name
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
@@ -15,7 +16,7 @@ echo "-----------------------------"
 sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
-sleep 2 "I kind of Git it, wishh me luck"
+sleep "I kind of Git it, wish me luck"
  
 
 ifconfig.me
