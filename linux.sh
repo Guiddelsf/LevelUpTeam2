@@ -1,6 +1,4 @@
 #!/bin/bash
-
-echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
 sleep 3 
@@ -17,7 +15,7 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 sleep "I kind of Git it, wish me luck"
- 
+echo "This is a trial run" 
 
 ifconfig.me
 
